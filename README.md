@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\TUSHAR SETHI\Desktop\ml.jpg)
+![MasterHead](https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png)
 <h1 align="center">Hi 👋, I'm Tushar Sethi</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
