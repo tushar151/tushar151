@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tushar Sethi</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 - 🌱 I’m currently learning **Large Language Models and MLOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tushar151](https://github.com/tushar151)
