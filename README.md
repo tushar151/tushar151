@@ -1,4 +1,7 @@
-![MasterHead](https://github.com/user-attachments/assets/aac86fe7-4f70-477e-b6f5-8ac992cde622)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aac86fe7-4f70-477e-b6f5-8ac992cde622" alt="MasterHead" width="100%" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Tushar Sethi</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
