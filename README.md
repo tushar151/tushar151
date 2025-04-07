@@ -1,4 +1,4 @@
-[MasterHead]([original-9d2425d7d74b2ae74b26721d1ced39ea](https://github.com/user-attachments/assets/aac86fe7-4f70-477e-b6f5-8ac992cde622))
+![MasterHead](https://github.com/user-attachments/assets/aac86fe7-4f70-477e-b6f5-8ac992cde622)
 
 <h1 align="center">Hi 👋, I'm Tushar Sethi</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
